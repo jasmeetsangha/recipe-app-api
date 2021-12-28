@@ -1,4 +1,4 @@
-FROM python:3.11-rc-alpine
+FROM python:3.7-alpine
 MAINTAINER Jasmeet Ltd
 
 ENV PYTHONUNBUFFERED 1
